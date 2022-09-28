@@ -1,0 +1,4 @@
+name: WgEnterServer
+version: '${project.version}'
+main: github.maksgaming.wgenterserver.WGEnter
+depend: ["WorldGuard"]
